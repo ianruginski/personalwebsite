@@ -14,28 +14,8 @@ a.navbar-brand{
   text-decoration: none;
 }
 
-#textbox {
-  display:inline !important;
-  padding-top:
-}
-
 .dropdown-backdrop {
     position: static;
-}
-
-#picture {
-  position:static;
-  margin:0 auto;
-  top:50px;
-  bottom: 0;
-  left: -380px;
-  right: 0;
-  padding-top: 50px;
-  clear:right;
-  float:left!important;
-  display:inline-block !important;
-  padding-bottom: 40px;
-  align-content:center;
 }
 
 img {
@@ -46,18 +26,6 @@ img {
   float:center;
   padding-top: 50px !important;
   padding-bottom: 25px !important;
-}
-
-div.container {
-  float:left;
-  display: inline-block
-}
-
-div.well {
-  position:static;
-  clear:both !important;
-  float:right !important;
-  display: inline-block !important;
 }
 
 .navbar-fixed-top {
@@ -80,4 +48,35 @@ body {
 
 .navbar-brand {
 	margin-left: 15px;
+}
+
+.footer {
+  clear: both;
+  position: static;
+  display: block;
+  text-align:center;
+}
+
+.footerli {
+  display: inline;
+  text-decoration: none;
+}
+
+
+.container-full {
+  margin: 0 auto;
+  width: 100%;
+}
+
+.navbar-fixed-top {
+  clear:none;
+  position:fixed;
+  display:block;
+}
+
+#but {
+  color: #000024;
+  font-size: 4em;
+  padding-left: 25px;
+  padding-right:25px;
 }
