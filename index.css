@@ -57,5 +57,6 @@ body {
 }
 
 .well {
-  max-width: 65%;
+  max-width: 60%;
+  position:center;
 }
