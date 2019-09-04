@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://ianruginski.netlify.com/</loc>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://ianruginski.netlify.com/about.html</loc>
+  </url>
+  <url>
+    <loc>https://ianruginski.netlify.com/tutorials.html</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://ianruginski.netlify.com/research.html</loc>
+  </url>
+  <url>
+    <loc>https://ianruginski.netlify.com/tutorials/SEM_StackedModelsFactorialMeasurementInvarianceR_tutorial.html</loc>
+  </url>
+  <url>
+    <loc>https://ianruginski.netlify.com/tutorials/SEM_CFAR_tutorial.html</loc>
+  </url>
+  <url>
+    <loc>https://ianruginski.netlify.com/tutorials/SEM_EFAR_tutorial.html</loc>
+  </url>
+  <url>
+    <loc>https://ianruginski.netlify.com/tutorials/SEM_FullSEMR_tutorial.html</loc>
+  </url>
+  <url>
+    <loc>https://ianruginski.netlify.com/tutorials/SEM_PathAnalysisR_tutorial.html</loc>
+  </url>
+  <url>
+    <loc>https://ianruginski.netlify.com/tutorials/SEM_PathAnalysislavaanR_tutorial.html</loc>
+  </url>
+  <url>
+    <loc>https://ianruginski.netlify.com/tutorials/SEM_RegressionReviewR_tutorial.html</loc>
+  </url>
+  <url>
+    <loc>https://ianruginski.netlify.com/tutorials/regressionassumptionswithR_tutorial.html</loc>
+  </url>
+
+
+  <url>
+    <loc>https://ianruginski.netlify.com/tutorials/SEM_MatrixAlgebraR_tutorial</loc>
+  </url>
+
+  <url>
+    <loc>https://ianruginski.netlify.com/tutorials/SEM_StackedModelsFactorialMeasurementInvarianceR_tutorial</loc>
+  </url>
+
+  <url>
+    <loc>https://ianruginski.netlify.com/files/ruginski_cv.pdf</loc>
+  </url>
+</urlset>
