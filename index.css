@@ -55,3 +55,7 @@ body {
 .navbar-brand {
 	margin-left: 15px;
 }
+
+.well {
+  max-width: 65%;
+}
